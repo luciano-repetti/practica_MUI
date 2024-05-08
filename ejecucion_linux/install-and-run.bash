@@ -8,4 +8,4 @@ then
 fi
 
 # Instalar dependencias e iniciar el servidor de desarrollo
-yarn install && ./ejecucion_linux/run-dev.sh
+yarn install && ./ejecucion_linux/run-dev.bash
